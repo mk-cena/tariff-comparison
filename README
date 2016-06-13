@@ -1,0 +1,11 @@
+Either:
+
+./tariff-comparison
+
+OR:
+
+mkdir build
+cd build
+cmake ..
+make
+../tariff-comparison
