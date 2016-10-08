@@ -1,4 +1,4 @@
-Tariff Comparison Cpp Challenge
+Tariff Comparison C++ Challenge
 ===
 Build
 ---
